@@ -8,6 +8,7 @@ namespace helloworld.app
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine(DateTime.Now);
+            Console.WriteLine(DateTime.Now.ToString("hh:mm:ss"));
 
             Console.ReadKey();
         }
