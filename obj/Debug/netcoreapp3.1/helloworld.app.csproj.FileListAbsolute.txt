@@ -1,0 +1,11 @@
+D:\BSL\Source\SampleHelloAPp\helloworld.app\bin\Debug\netcoreapp3.1\helloworld.app.exe
+D:\BSL\Source\SampleHelloAPp\helloworld.app\bin\Debug\netcoreapp3.1\helloworld.app.deps.json
+D:\BSL\Source\SampleHelloAPp\helloworld.app\bin\Debug\netcoreapp3.1\helloworld.app.runtimeconfig.json
+D:\BSL\Source\SampleHelloAPp\helloworld.app\bin\Debug\netcoreapp3.1\helloworld.app.runtimeconfig.dev.json
+D:\BSL\Source\SampleHelloAPp\helloworld.app\bin\Debug\netcoreapp3.1\helloworld.app.dll
+D:\BSL\Source\SampleHelloAPp\helloworld.app\bin\Debug\netcoreapp3.1\helloworld.app.pdb
+D:\BSL\Source\SampleHelloAPp\helloworld.app\obj\Debug\netcoreapp3.1\helloworld.app.csprojAssemblyReference.cache
+D:\BSL\Source\SampleHelloAPp\helloworld.app\obj\Debug\netcoreapp3.1\helloworld.app.AssemblyInfoInputs.cache
+D:\BSL\Source\SampleHelloAPp\helloworld.app\obj\Debug\netcoreapp3.1\helloworld.app.AssemblyInfo.cs
+D:\BSL\Source\SampleHelloAPp\helloworld.app\obj\Debug\netcoreapp3.1\helloworld.app.dll
+D:\BSL\Source\SampleHelloAPp\helloworld.app\obj\Debug\netcoreapp3.1\helloworld.app.pdb
